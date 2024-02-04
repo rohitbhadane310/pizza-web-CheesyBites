@@ -12,9 +12,9 @@ const Hero = () => {
           Flavors
         </h1>
         <p className=" text-sm lg:text-base">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt
-          mollitia voluptatibus vero ducimus sapiente harum molestiae est,
-          officiis qui ad.
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repudiandae
+          aspernatur similique dignissimos deleniti cum natus voluptatibus vitae
+          at nemo possimus.
         </p>
         <Button title="Read More" />
       </div>
